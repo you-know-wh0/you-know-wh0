@@ -1,5 +1,3 @@
-# 🕷️ 
-
 ### About Me 🚀
 - 🔭 I’m currently working on **Python-based projects**.
 - 🌌 Fun Fact: I love astronomy, often spend nights stargazing and go blank.
