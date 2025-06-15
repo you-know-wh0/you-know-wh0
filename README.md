@@ -1,13 +1,13 @@
 ### About Me 🚀
 - 🔭 I’m currently working on **Python-based projects**.
 - 🌌 Fun Fact: I love astronomy, often spend nights stargazing and go blank.
-- 🎨 Hobbies: Painting, exploring cybersecurity tools, and learning about the universe.
+- 🌱 Currently working on data analysis 
 
 ---
 
 ### Tech Stack 💻
 - **Programming Language**: Python 🐍
-- **Interests**: Networking, Cybersecurity, Astronomy
+- **Interests**: Data Science, Machine Learning, Ai, Web Dev
 
 ---
 
