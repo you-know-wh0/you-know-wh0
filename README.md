@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1200&color=00FF7F&center=true&vCenter=true&width=300&height=280&cursor=_&lines=%3E+Hello+world!;>+I'm+PROVA!;>+Welcome+To+My+Profile~" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1200&color=00FF7F&center=true&vCenter=true&width=300&height=280&cursor=_&lines=%3E+Hello+World!;>+I'm+PROVA!;>+Welcome+To+My+Profile~" />
 </p>
----
 
 ### Tech Stack 💻
 
