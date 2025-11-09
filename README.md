@@ -1,16 +1,27 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1200&color=00FF7F&center=true&vCenter=true&width=300&height=280&cursor=_&lines=%3E+Hello+world!;>+I'm+PROVA!;>+Welcome+To+My+Profile~" />
+</p>
+---
 
-<!--
-**you-know-wh0/you-know-wh0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Tech Stack 💻
 
-Here are some ideas to get you started:
+[![My Skills](https://skillicons.dev/icons?i=python,mysql,js,html,django,git,github)]()
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Interests 🕷️
+
+Data Science, Neural Network, Machine Learning, LLMs, Cybersecurity
+
+---
+
+### GitHub Stats 📊
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=you-know-wh0&show_icons=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=you-know-wh0&layout=compact&theme=dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=you-know-wh0&theme=dark&hide_border=true)
+
+---
+❄️ [You Know Who](https://github.com/you-know-wh0)
+
+
